@@ -1,6 +1,7 @@
 # 修士論文のコード
 
 <pre>
+ディレクトリ構成
     .
     ├── Hamming_CBC
     │   ├── Hamming_CBC_params.c
