@@ -1,10 +1,10 @@
 # 修士論文のコード
 
-ディレクトリ構成
-    ├── Hamming_CBC
-    │   ├── Hamming_CBC_params.c
-    │   ├── Hamming_CBC_params.h
-    │   ├── Hamming_CBC_params.o
+ディレクトリ構成  
+    ├── Hamming_CBC  
+    │   ├── Hamming_CBC_params.c  
+    │   ├── Hamming_CBC_params.h  
+    │   ├── Hamming_CBC_params.o  
     │   ├── MMT_BJMM
     │   │   ├── Dicke_quantum_MMT_BJMM
     │   │   ├── Dicke_quantum_MMT_BJMM.c
