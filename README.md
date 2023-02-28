@@ -4,7 +4,7 @@
 
 ## ディレクトリ構成
 
-<pre>
+```
   .
   ├── Hamming_CBC
   │   ├── Hamming_CBC_params.c
@@ -77,13 +77,22 @@
   ├── basic_operation.c
   ├── basic_operation.h
   └── basic_operation.o
- <pre>
+```
 
 ------------------------------
 
-## それぞれのコードの概説
+## 7.3節のコードの概説
 7.3節では，10個の攻撃アルゴリズムによる計算コストの導出を議論した．それぞれの項で説明されるアルゴリズムが上記のコードのいずれに対応するかを説明する．
 
 | 項番号  | 項タイトル | 対応するコード |
 | ------ | ------- | ----------- |
-| 7.3.1  | 古典回路上での量子 Prange アルゴリズムの計算コスト | ./basic_operation.*, ./Hamming_CBC/Hamming_CBC_params.*, ./Hamming_CBC/Prange/classical_Prange* |
+| 7.3.1  | 古典回路上での量子 Prange アルゴリズムの計算コスト | ./basic_operation.* <br> ./Hamming_CBC/Hamming_CBC_params.* <br> ./Hamming_CBC/Prange/classical_Prange* |
+| 7.3.2  | 古典回路上での量子 Prange アルゴリズムの計算コスト | ./basic_operation.* <br> ./Hamming_CBC/Hamming_CBC_params.* <br> ./Hamming_CBC/Prange/classical_Prange* |
+| 7.3.3  | 古典回路上での量子 Prange アルゴリズムの計算コスト | ./basic_operation.* <br> ./Hamming_CBC/Hamming_CBC_params.* <br> ./Hamming_CBC/Prange/classical_Prange* |
+| 7.3.4  | 古典回路上での量子 Prange アルゴリズムの計算コスト | ./basic_operation.* <br> ./Hamming_CBC/Hamming_CBC_params.* <br> ./Hamming_CBC/Prange/classical_Prange* |
+| 7.3.5  | 古典回路上での量子 Prange アルゴリズムの計算コスト | ./basic_operation.* <br> ./Hamming_CBC/Hamming_CBC_params.* <br> ./Hamming_CBC/Prange/classical_Prange* |
+| 7.3.6  | 古典回路上での量子 Prange アルゴリズムの計算コスト | ./basic_operation.* <br> ./Hamming_CBC/Hamming_CBC_params.* <br> ./Hamming_CBC/Prange/classical_Prange* |
+| 7.3.7  | 古典回路上での量子 Prange アルゴリズムの計算コスト | ./basic_operation.* <br> ./Hamming_CBC/Hamming_CBC_params.* <br> ./Hamming_CBC/Prange/classical_Prange* |
+| 7.3.8  | 古典回路上での量子 Prange アルゴリズムの計算コスト | ./basic_operation.* <br> ./Hamming_CBC/Hamming_CBC_params.* <br> ./Hamming_CBC/Prange/classical_Prange* |
+| 7.3.9  | 古典回路上での量子 Prange アルゴリズムの計算コスト | ./basic_operation.* <br> ./Hamming_CBC/Hamming_CBC_params.* <br> ./Hamming_CBC/Prange/classical_Prange* |
+| 7.3.10 | 古典回路上での量子 Prange アルゴリズムの計算コスト | ./basic_operation.* <br> ./Hamming_CBC/Hamming_CBC_params.* <br> ./Hamming_CBC/Prange/classical_Prange* |
